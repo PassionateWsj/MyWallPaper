@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WallPaper</string>
+    <string name="title_fragment_recommand">壁纸精选</string>
+    <string name="title_fragment_category">分类</string>
+    <string name="title_fragment_more">更多</string>
+    <string name="title_test">测试复用的标题</string>
+    <string name="tv_collect">收藏</string>
+    <string name="tv_set_wallpaper">设为壁纸</string>
+    <string name="tv_download">下载</string>
+    <string name="tv_show_picture_title">壁纸详情</string>
+    <string name="title_fragment_search">搜索</string>
+    <string name="title_search_item">热门搜索</string>
+    <string name="search_more">查看更多</string>
+    <string name="tv_edit_text_hint">关键字</string>
+    <string name="text_my_collect">我的收藏</string>
+    <string name="text_my_download">我的下载</string>
+    <string name="tex_setting">设置</string>
+    <string name="text_recommend_to_friend">推荐给好友</string>
+    <string name="text_give_good_reputation">给个好评</string>
+    <string name="btn_manage">管理</string>
+    <string name="btn_delete">删除</string>
+    <string name="btn_all_choose">全选</string>
+    <string name="btn_none_choose">取消全选</string>
+</resources>

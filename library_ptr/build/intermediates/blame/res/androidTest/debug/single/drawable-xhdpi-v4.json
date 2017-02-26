@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\indicator_arrow.png",
+        "source": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png",
+        "source": "J:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png",
+        "source": "I:\\Android\\AndroidStudioProjects\\MyWallPaper\\library_ptr\\build\\intermediates\\bundles\\debug\\res\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    }
+]

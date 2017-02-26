@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jameswong.wallpaper.activity.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_weight="11"/>
+
+    <LinearLayout
+        android:id="@+id/ll_main_tab"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/colorBackground"
+        android:orientation="horizontal"
+        android:padding="5dp">
+
+        <LinearLayout
+            style="@style/MainTabLinearLayout">
+
+            <ImageView
+                style="@style/MainTabImg"/>
+
+            <TextView
+                style="@style/MainTabText"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/MainTabLinearLayout">
+
+            <ImageView
+                style="@style/MainTabImg"/>
+
+            <TextView
+                style="@style/MainTabText"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/MainTabLinearLayout">
+
+            <ImageView
+                style="@style/MainTabImg"/>
+
+            <TextView
+                style="@style/MainTabText"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/MainTabLinearLayout">
+
+            <ImageView
+                style="@style/MainTabImg"/>
+
+            <TextView
+                style="@style/MainTabText"/>
+        </LinearLayout>
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/ll_main_tab_img"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_weight="1"-->
+        <!--android:gravity="center"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_height="match_parent">-->
+        <!--<ImageView-->
+        <!--android:src="@drawable/bottom_recommand"-->
+        <!--style="@style/MainTab"/>-->
+        <!--<ImageView-->
+        <!--android:src="@drawable/bottom_category"-->
+        <!--style="@style/MainTab"/>-->
+        <!--<ImageView-->
+        <!--android:src="@drawable/bottom_search"-->
+        <!--style="@style/MainTab"/>-->
+        <!--<ImageView-->
+        <!--android:src="@drawable/bottom_more"-->
+        <!--style="@style/MainTab"/>-->
+
+        <!--</LinearLayout>-->
+
+        <!--<LinearLayout-->
+        <!--android:id="@+id/ll_main_tab_text"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_weight="2"-->
+        <!--android:gravity="center"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:layout_height="match_parent">-->
+        <!--<TextView-->
+        <!--style="@style/MainTab"/>-->
+        <!--<TextView-->
+        <!--style="@style/MainTab"/>-->
+        <!--<TextView-->
+        <!--style="@style/MainTab"/>-->
+        <!--<TextView-->
+        <!--style="@style/MainTab"/>-->
+
+        <!--</LinearLayout>-->
+
+    </LinearLayout>
+
+
+</LinearLayout>

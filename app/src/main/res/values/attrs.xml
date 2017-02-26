@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleImageView">
+        <attr name="civ_border_width" format="dimension" />
+        <attr name="civ_border_color" format="color" />
+        <attr name="civ_border_overlay" format="boolean" />
+        <attr name="civ_fill_color" format="color" />
+    </declare-styleable>
+
+    <!--自定义Progress属性-->
+    <declare-styleable name="MyProgress">
+        <attr name="prgStrokeWidth" format="dimension"/>
+        <attr name="bgColor" format="color"/>
+        <attr name="progressColor" format="color"/>
+    </declare-styleable>
+</resources>

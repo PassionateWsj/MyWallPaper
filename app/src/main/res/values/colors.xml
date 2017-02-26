@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#EDEDED</color>
+    <color name="colorMoreFragmentBackground">#EEEEEE</color>
+    <color name="colorTabChosen">#0ABF4C</color>
+    <color name="colorTabText">#878787</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorTransparentBlack">#85000000</color>
+    <color name="colorWhite">#fff</color>
+    <color name="colorButtonBackground">#DEDEDE</color>
+    <color name="colorButtonBackgroundPressed">#A9A9A9</color>
+    <color name="colorBtnChosen">#3C3F41</color>
+</resources>

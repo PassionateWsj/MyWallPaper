@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/colorMoreFragmentBackground"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorWhite"
+        android:gravity="center"
+        android:text="@string/title_fragment_more"
+        android:textColor="@color/colorBlack"
+        android:textSize="25sp"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/btn_my_collect"
+        style="@style/btn_more_fragment"
+        android:text="@string/text_my_collect"/>
+
+    <Button
+        android:id="@+id/btn_my_download"
+        style="@style/btn_more_fragment"
+        android:text="@string/text_my_download"/>
+
+    <Button
+        android:id="@+id/btn_recommend_to_friend"
+        style="@style/btn_more_fragment"
+        android:layout_marginTop="3dp"
+        android:text="@string/text_recommend_to_friend"/>
+
+    <Button
+        android:id="@+id/btn_more_give_good_reputation"
+        style="@style/btn_more_fragment"
+        android:text="@string/text_give_good_reputation"/>
+
+    <Button
+        android:id="@+id/btn_more_setting"
+        style="@style/btn_more_fragment"
+        android:text="@string/tex_setting"/>
+
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="150dp"
+              android:orientation="vertical"
+              android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:text="@string/title_search_item"
+        android:textColor="@color/colorBlack"/>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:padding="5dp"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <com.jameswong.wallpaper.view.SimpleProgressImageView
+                android:id="@+id/iv_hot_search_container1"
+                style="@style/item_hot_search_text">
+
+                <TextView
+                    android:id="@+id/tv_hot_search_container1"
+                    style="@style/text_hot_search_item"/>
+            </com.jameswong.wallpaper.view.SimpleProgressImageView>
+
+            <com.jameswong.wallpaper.view.SimpleProgressImageView
+                android:id="@+id/iv_hot_search_container2"
+                style="@style/item_hot_search_text">
+
+                <TextView
+                    android:id="@+id/tv_hot_search_container2"
+                    style="@style/text_hot_search_item"/>
+            </com.jameswong.wallpaper.view.SimpleProgressImageView>
+
+            <com.jameswong.wallpaper.view.SimpleProgressImageView
+                android:id="@+id/iv_hot_search_container3"
+                style="@style/item_hot_search_text">
+
+                <TextView
+                    android:id="@+id/tv_hot_search_container3"
+                    style="@style/text_hot_search_item"/>
+            </com.jameswong.wallpaper.view.SimpleProgressImageView>
+
+            <com.jameswong.wallpaper.view.SimpleProgressImageView
+                android:id="@+id/iv_hot_search_container4"
+                style="@style/item_hot_search_text">
+
+                <TextView
+                    android:id="@+id/tv_hot_search_container4"
+                    style="@style/text_hot_search_item"/>
+            </com.jameswong.wallpaper.view.SimpleProgressImageView>
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>
